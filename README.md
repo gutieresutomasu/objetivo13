@@ -28,4 +28,6 @@ Estos son los dos indicadores que el INEC considera para este objetivo:
 
 ![](https://github.com/tomasga94/objetivo13/blob/master/Screen%20Shot%202020-03-23%20at%200.15.00.png)
 
+![](https://github.com/tomasga94/objetivo13/blob/master/Screen%20Shot%202020-03-23%20at%200.36.29.png)
+
 Fuente: https://www.inec.cr/sites/default/files/archivos-descargables-pagina/reodsinec2016-2017-01.pdf
